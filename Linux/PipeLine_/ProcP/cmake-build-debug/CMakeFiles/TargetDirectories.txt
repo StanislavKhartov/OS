@@ -1,0 +1,3 @@
+/home/stanislave/CLionProjects/ProcP/cmake-build-debug/CMakeFiles/ProcP.dir
+/home/stanislave/CLionProjects/ProcP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stanislave/CLionProjects/ProcP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

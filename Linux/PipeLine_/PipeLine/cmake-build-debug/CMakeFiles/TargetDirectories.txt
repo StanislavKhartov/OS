@@ -1,0 +1,3 @@
+/home/stanislave/CLionProjects/PipeLine/cmake-build-debug/CMakeFiles/PipeLine.dir
+/home/stanislave/CLionProjects/PipeLine/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stanislave/CLionProjects/PipeLine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
