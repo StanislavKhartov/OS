@@ -1,4 +1,0 @@
-﻿Vector.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: double __thiscall Number::getNumber(void)const " (?getNumber@Number@@QBENXZ) в функции "public: double __thiscall Vector::getPolarAngle(void)const " (?getPolarAngle@Vector@@QBENXZ).
-Vector.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: class Number __thiscall Number::add(class Number)const " (?add@Number@@QBE?AV1@V1@@Z) в функции "public: class Vector __thiscall Vector::add(class Vector)const " (?add@Vector@@QBE?AV1@V1@@Z).
-C:\Users\Ideapad\source\repos\StaticNumber\x64\Debug\StaticNumber.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
-C:\Users\Ideapad\source\repos\DllVector\Debug\DllVector.dll : fatal error LNK1120: неразрешенных внешних элементов: 2

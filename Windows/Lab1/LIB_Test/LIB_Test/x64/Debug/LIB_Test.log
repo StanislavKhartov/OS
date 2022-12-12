@@ -1,7 +1,0 @@
-﻿  LIB_Test.cpp
-C:\Users\Ideapad\source\repos\DllVector\DllVector\Vector.h(16,9): warning C4251: Vector::x_: class "Number" должен иметь dll-интерфейс для использования клиентами class "Vector"
-C:\Users\Ideapad\source\repos\StaticNumber\StaticNumber\Number.h(6): message : см. объявление "Number"
-C:\Users\Ideapad\source\repos\DllVector\DllVector\Vector.h(17,9): warning C4251: Vector::y_: class "Number" должен иметь dll-интерфейс для использования клиентами class "Vector"
-C:\Users\Ideapad\source\repos\StaticNumber\StaticNumber\Number.h(6): message : см. объявление "Number"
-     Создается библиотека C:\Users\Ideapad\source\repos\LIB_Test\x64\Debug\LIB_Test.lib и объект C:\Users\Ideapad\source\repos\LIB_Test\x64\Debug\LIB_Test.exp
-  LIB_Test.vcxproj -> C:\Users\Ideapad\source\repos\LIB_Test\x64\Debug\LIB_Test.exe
