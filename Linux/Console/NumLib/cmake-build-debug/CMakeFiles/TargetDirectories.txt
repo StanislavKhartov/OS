@@ -1,0 +1,3 @@
+/home/stanislave/CLionProjects/NumLib/cmake-build-debug/CMakeFiles/NumLib.dir
+/home/stanislave/CLionProjects/NumLib/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stanislave/CLionProjects/NumLib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
